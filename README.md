@@ -16,3 +16,17 @@ Welcome to the Number Guessing Game! This is a simple Java console game where th
 10. Once you finish playing, your average attempts per round will be displayed.
 
 
+# TASK 2
+# WORD COUNTER
+The Word Counter is a simple Java program that allows you to count the number of words in a given text or a text file. Additionally, it provides statistics on the number of unique words and the frequency of each word.
+
+# WORKING
+1. When you run the program, you will be prompted to enter a text or provide a file. You can enter text directly or provide the path to a text file (e.g., "mytext.txt").
+2. The program will then count the words in the provided text or file and display the results.
+3. The results include the total word count, the number of unique words, and the frequency of each word.
+
+# FEATURES
+1. Count the total number of words in the input text.
+2. Display the number of unique words.
+3. Show the frequency of each word.
+4. Support reading text from a file for larger documents.
