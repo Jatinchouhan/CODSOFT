@@ -30,3 +30,18 @@ The Word Counter is a simple Java program that allows you to count the number of
 2. Display the number of unique words.
 3. Show the frequency of each word.
 4. Support reading text from a file for larger documents.
+
+
+# TASK 3
+# ATM INTERFACE
+# ABOUT 
+The ATM Interface is a command-line program that simulates an ATM machine, allowing users to perform various banking transactions.
+
+# CUSTOMIZATION
+The ATM Interface with Java can be customized to meet specific requirements. You can modify the code to:
+
+Integrate with a real banking system or database.
+Customize transaction limits, such as maximum withdrawal amounts.
+Implement additional features, like bill payments or fund transfers to other banks.
+Enhance security features, such as two-factor authentication.
+To customize the ATM Interface, you will need to have a good understanding of Java programming and potentially work with a database if you want to store and manage user account data.
